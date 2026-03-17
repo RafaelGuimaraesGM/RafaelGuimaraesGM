@@ -99,7 +99,7 @@ Olá meu nome é Rafael Henrique Guimarães, tenho 22 anos e sou do Paraná. Con
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="400" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=RafaelGuimaraesGM&show_icons=true&theme=radical&locale=pt-br" 
   />
