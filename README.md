@@ -95,20 +95,9 @@ Olá meu nome é Rafael Henrique Guimarães, tenho 22 anos e sou do Paraná. Con
 
 ### 📈 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="400" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=RafaelGuimaraesGM&show_icons=true&theme=radical&locale=pt-br" 
-  />
-    
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    eight="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGuimaraesGM&layout=donut&theme=radical&custom_title=Linguagens" 
-  />
-</p>
+<a href="https://github.com/RafaelGuimaraesGM/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RafaelGuimaraesGM&show_icons=true&theme=radical&locale=pt-br" />
+</a>
+<a href="https://github.com/RafaelGuimaraesGM/convoychat">
+  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGuimaraesGM&layout=donut&theme=radical&custom_title=Linguagens" />
+</a>
